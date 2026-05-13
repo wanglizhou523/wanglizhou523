@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Lizhou Wang
 
-<!--
-**wanglizhou523/wanglizhou523** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am building toward small, practical developer tools: automation scripts, AI-assisted command-line workflows, and utilities that make repeated work faster.
 
-Here are some ideas to get you started:
+## Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Developer workflow automation
+- AI-assisted CLI experiments
+- Practical scripts that are easy to read, run, and improve
+- Learning in public by shipping compact projects
+
+## Now
+
+- Setting up this GitHub profile as a home base for developer-tool projects
+- Drafting small utilities around file work, Git workflows, and repeatable coding tasks
+- Keeping projects simple enough to understand quickly and useful enough to revisit
+
+## Starter Projects
+
+| Project | Status | Idea |
+| --- | --- | --- |
+| `dev-flow-scripts` | Planned | Small scripts for everyday developer workflows |
+| `ai-cli-lab` | Planned | Experiments with AI-assisted command-line tools |
+
+## Principles
+
+- Build small things that actually run
+- Write clear READMEs before adding complexity
+- Prefer useful defaults over clever abstractions
+- Make tools understandable from the command line
+
+---
+
+`developer tools` · `automation` · `CLI` · `AI-assisted workflows`
